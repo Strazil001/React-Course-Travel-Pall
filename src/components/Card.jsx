@@ -14,7 +14,9 @@ export default function (props) {
           <a
             className="card--location_googlemaps_link"
             href={props.googleMapsUrl}
-          ></a>
+          >
+            Google maps
+          </a>
         </div>
         <div className="card--datebox">
           <span className="card--startdate">{props.startDate}</span>

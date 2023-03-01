@@ -9,7 +9,7 @@ export default [
     id: 0,
     title: "Eiffel Tower",
     location: "France",
-    gooleMapsUrl: "https://www.google.be",
+    googleMapsUrl: "https://www.google.be",
     startDate: "",
     endDate: "",
     description:
@@ -23,7 +23,7 @@ export default [
     id: 1,
     title: "Tower of Pisa",
     location: "Italy",
-    gooleMapsUrl: "https://www.google.be",
+    googleMapsUrl: "https://www.google.be",
     startDate: "",
     endDate: "",
     description:
@@ -36,7 +36,7 @@ export default [
     id: 2,
     title: "Vineyard",
     location: "Germany",
-    gooleMapsUrl: "https://www.google.be",
+    googleMapsUrl: "https://www.google.be",
     startDate: "",
     endDate: "",
     description:
@@ -49,9 +49,10 @@ export default [
     id: 3,
     title: "Mount Fuji",
     location: "Japan",
-    gooleMapsUrl: "https://www.google.be",
-    startDate: "",
-    endDate: "",
+    googleMapsUrl:
+      "https://www.google.com/maps/place/Fuji/@35.3606337,138.722986,16z/data=!3m1!4b1!4m5!3m4!1s0x6019629a42fdc899:0xa6a1fcc916f3a4df!8m2!3d35.3606255!4d138.7273634",
+    startDate: "12-01-2001",
+    endDate: "08-02-2001",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut \
        labore et dolore magna aliqua. Quis aenean velit nisl inceptos lobortis porta ipsum senectus \
@@ -62,7 +63,7 @@ export default [
     id: 4,
     title: "Atomium",
     location: "Belgium",
-    gooleMapsUrl: "https://www.google.be",
+    googleMapsUrl: "https://www.google.be",
     startDate: "",
     endDate: "",
     description:
@@ -75,7 +76,7 @@ export default [
     id: 2,
     title: "Vineyard",
     location: "Germany",
-    gooleMapsUrl: "https://www.google.be",
+    googleMapsUrl: "https://www.google.be",
     startDate: "",
     endDate: "",
     description:
@@ -88,7 +89,7 @@ export default [
     id: 3,
     title: "Eiffel Tower",
     location: "France",
-    gooleMapsUrl: "https://www.google.be",
+    googleMapsUrl: "https://www.google.be",
     startDate: "",
     endDate: "",
     description:
@@ -102,7 +103,7 @@ export default [
     id: 4,
     title: "Atomium",
     location: "Belgium",
-    gooleMapsUrl: "https://www.google.be",
+    googleMapsUrl: "https://www.google.be",
     startDate: "",
     endDate: "",
     description:

@@ -20,10 +20,10 @@
 }
 
 .card--infobox_location_container {
+    width: 600px;
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    width: 300px;
 }
 
 .card--location_icon {
@@ -37,7 +37,12 @@
 }
 
 .card--location_name {
+    margin-right: 0.5em;
     font-weight: 300;
+}
+
+.card--location_googlemaps_link {
+    color: #1e1e2e;
 }
 
 .card--datebox {
